@@ -119,7 +119,7 @@ El sistema cumple con los requisitos de la evaluación:
 
 Pegar aquí el enlace del repositorio:
 
-**[https://github.com/usuario/PA4_TiendaAcademica](https://github.com/Jhosua75/examenes/tree/master/PA4_TiendaAcademica)**
+**https://github.com/Jhosua75/examenes/tree/master/PA4_TiendaAcademica**
 
 ---
 
