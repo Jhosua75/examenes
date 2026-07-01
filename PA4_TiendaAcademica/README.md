@@ -4,10 +4,11 @@
 
 ### Integrantes
 
-* Integrante 1
-* Integrante 2
-* Integrante 3
-* Integrante 4
+* Integrante 1:
+* Integrante 2:
+* Integrante 3:
+* Integrante 4:
+* Integrante 5:
 
 ---
 
@@ -118,7 +119,7 @@ El sistema cumple con los requisitos de la evaluación:
 
 Pegar aquí el enlace del repositorio:
 
-**https://github.com/usuario/PA4_TiendaAcademica**
+**[https://github.com/usuario/PA4_TiendaAcademica](https://github.com/Jhosua75/examenes/tree/master/PA4_TiendaAcademica)**
 
 ---
 
