@@ -4,11 +4,11 @@
 
 ### Integrantes
 
-* Integrante 1:
-* Integrante 2:
-* Integrante 3:
-* Integrante 4:
-* Integrante 5:
+* Integrante 1:Jose Carlos Diaz Rojas
+* Integrante 2:Mateo Bohorquez Surichaqui
+* Integrante 3:Angel Cuba Blacido 
+* Integrante 4:Jhosua David Huaman Chate
+* Integrante 5:Ayrton Mihail Palomino Loli
 
 ---
 
