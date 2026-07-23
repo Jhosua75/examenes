@@ -103,4 +103,4 @@ Enlace al video en YouTube: **[https://youtu.be/vzf2oV-2fkA?si=Q4xx3QxrUNnUeqzy]
 
 ## Repositorio
 
-Enlace al repositorio en GitHub: **[pegar aquí el enlace]**
+Enlace al repositorio en GitHub: **[https://github.com/Jhosua75/examenes/tree/master/EF-6756]**
