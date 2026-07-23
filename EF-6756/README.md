@@ -12,7 +12,6 @@ con JDBC sobre SQL Server.
 | Curso | Programación Orientada a Objetos |
 | Código | 6756 |
 | Docente(s) | Wilder Julio Espinoza Bravo |
-| Sección | 6756 |
 | Fecha | 22 de julio de 2026 |
 
 ## Propósito
@@ -100,7 +99,7 @@ Correr la clase `Main.java` (click derecho → Run 'Main.main()').
 
 ## Video de exposición
 
-Enlace al video en YouTube: **[pegar aquí el enlace]**
+Enlace al video en YouTube: **[https://youtu.be/vzf2oV-2fkA?si=Q4xx3QxrUNnUeqzy]**
 
 ## Repositorio
 
